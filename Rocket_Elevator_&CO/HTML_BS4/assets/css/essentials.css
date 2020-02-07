@@ -80,7 +80,23 @@
 	 color: #999999;
 
  }
+
+ .detailShop {
+	 font-style: 'roboto';
+	 font-size: 12px;
+	 color: #999999
+ }
+
+ .brand-info {
+	 font-style: 'roboto';
+	 font-size: 14px;
+	 color: rgb(201, 198, 198)
+ }
  
+ .brand {
+	 font-style: 'Roboto';
+	 color: #0a0a0a;
+ }
  
 /**	01. Resets
 *************************************************** **/
